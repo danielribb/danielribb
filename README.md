@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @danielribb
-- 👀 I’m interested in Competitive Programming and Backend
-- 🌱 I’m currently learning Java and Html/Css
+
 - 📫 How to reach me https://www.linkedin.com/in/daniel-ribeiro-13118724b/
 
 
